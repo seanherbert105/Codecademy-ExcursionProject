@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+    color: white;
+
+}
+
+h1, h3, p {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 72px;
+}
+
+p {
+    color: green;
+}
+
+img, video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
